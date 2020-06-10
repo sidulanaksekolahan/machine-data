@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/machine_data"
+        android:title="@string/machine_data"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/code_reader"
+        android:title="@string/code_reader"
+        app:showAsAction="collapseActionView"/>
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Image Machine</string>
+    <string name="machine_data">Machine Data</string>
+    <string name="code_reader">Code Reader</string>
+    <string name="sort_by_type">Sort by type</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="add_machine_data">Add Machine Data</string>
+    <string name="machine_image">Machine Image</string>
+    <string name="id">ID:</string>
+    <string name="machine_name">Machine Name:</string>
+    <string name="machine_type">Machine Type:</string>
+    <string name="qr_code">QR Code</string>
+</resources>
